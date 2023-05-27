@@ -2,6 +2,6 @@ package app.model;
 
 import org.springframework.stereotype.Component;
 
-@Component("DogBean")
+@Component("dogBean")
 public class Dog extends Animal {
 }
